@@ -1,18 +1,16 @@
 # Real Estate Investment Opportunity Finder - Simple Explanation #
 
-## Step 1: Get all residential buildings and their addresses in Switzerland.(from geo.zh.ch) ##
-Result:<br /> 3,263,310 buildings found throughout all Switzerland<br />
-
-## Step 2: Filer only buildings from the Zurich canton. ##
+## Step 1: Get all residential buildings and their addresses in Switzerland.(from geo.zh.ch) and filer only buildings from the Zurich canton ##
+Initially:<br /> 3,263,310 buildings found throughout all Switzerland<br /><br />
 Result:<br /> 385,700 buildings found only in Zurich.
 
-## Step 3: Filter only building types that are partly_residential and residential. ##
+## Step 2: Filter only building types that are partly_residential and residential. ##
 Reason:<br />
 1.​ Top Tier (Highest Demand & Potential): <coide>partly_residential</code>, residential<br />
 2.​ Higher Risk / Avoid for this Strategy: non_residential, other_residential, special, temporary<br /><br />
 Results:<br /> 213,955 buildings in Zurich are residential and partly_residental buildings.<br />
 
-## Step 3.2: Fetch all “bauzonen” data from the public registry and enrich the current data with it. (from maps.zh.ch API requests) ##
+## Step 3: Fetch all “bauzonen” data from the public registry and enrich the current data with it. (from maps.zh.ch API requests) ##
 Comments:<br /> A solution was found using an alternative API endpoint, and the process
 was sped up using multithreading “workers” running in parallel through different VPN locations.
 
