@@ -47,7 +47,7 @@ What is great is this helps us further narrow our dataset. For example, if an en
 the building year, it means that the given address is not a building.<br /><br />
 Results:<br /> The dataset has been updated.<br />
 
-## Step 8: Remove all entries that don’t have a building name. ##
+## Step 8: Remove all entries that don’t have a construction year. ##
 Results:<br /> The dataset has been updated to contain only 40,886 buildings in ZH that fit
 the criteria.
 
