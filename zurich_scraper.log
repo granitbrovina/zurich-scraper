@@ -1,0 +1,18 @@
+2025-08-08 17:12:17,382 - INFO - Fetching GEAK certificate for Test Address
+2025-08-08 17:12:18,477 - ERROR - Error setting up Selenium: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-08-08 17:12:18,477 - INFO - Enhanced Zurich Real Estate Scraper initialized
+2025-08-08 17:12:18,843 - ERROR - Error fetching zoning info for None,None: unsupported operand type(s) for -: 'NoneType' and 'int'
+2025-08-08 17:12:18,843 - INFO - Fetching GEAK certificate for In der Fadmatt 51
+2025-08-08 17:12:18,843 - INFO - Checking permit history for In der Fadmatt 51
+2025-08-08 17:12:18,844 - INFO - Fetching rental market data for In der Fadmatt 51
+2025-08-08 17:12:18,844 - INFO - Fetching ownership data for In der Fadmatt 51
+2025-08-08 17:36:16,288 - INFO - Fetching GEAK certificate for Test Address
+2025-08-08 17:36:16,780 - ERROR - Error setting up Selenium: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-08-08 17:36:16,780 - INFO - Enhanced Zurich Real Estate Scraper initialized
+2025-08-08 17:36:16,781 - ERROR - Error fetching zoning info for None,None: unsupported operand type(s) for -: 'NoneType' and 'int'
+2025-08-08 17:36:16,781 - INFO - Fetching GEAK certificate for In der Fadmatt 51
+2025-08-08 17:36:16,782 - INFO - Checking permit history for In der Fadmatt 51
+2025-08-08 17:36:16,782 - INFO - Fetching rental market data for In der Fadmatt 51
+2025-08-08 17:36:16,782 - INFO - Fetching ownership data for In der Fadmatt 51
